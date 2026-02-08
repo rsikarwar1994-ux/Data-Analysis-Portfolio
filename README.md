@@ -19,14 +19,14 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
-## Table of Contents
-
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Power BI]
-    - [Bikes – Sales Performance Dashboard](#bikes--sales-performance-dashboard)
+  - Power BI
+    - [Bikes – Sales Performance Dashboard](#bikes--sales-performance-dashboard) 
+  - MySQL
 - [Education](#education)
 - [Certificates](#certificates)
+- [Achievements](#achievements)
 - [Contact](#contact)
 
 ## Portfolio Projects
@@ -47,22 +47,34 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-South East Technological University, Waterford, Ireland: 
-Master of Business - Finance and Business Analytics, (First Class),
+[South East Technological University, Waterford, Ireland](https://www.setu.ie/news/from-india-to-ireland-ram-completes-postgraduate-study-at-setu)
+
+Master of Business - Finance and Business Analytics, (**First Class Honours**),
+
 Sep 2023 - Aug 2024
 
-Bharati Vidyapeeth, New Delhi, India:
-MBA, Finance and Marketing, (First Class Honours),
+
+[Bharati Vidyapeeth, New Delhi, India](https://www.bvuniversity.edu.in/)
+
+MBA, Finance and Marketing, (**First Class Honours**),
+
 Jan 2018 - Dec 2019
 
-Jagannath University, New Delhi, India:
+
+[Jagannath University, New Delhi, India](https://www.jimsrohini.org/)
+
 Bachelors of Business Administration, International Business,
+
 Sep 2015 - May 2018
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Data Analysis and Visualization with Power BI](https://coursera.org/share/e28ab545fcd123dcfa8e5a7e1fbcc1a2) (Jan 2026) (Coursera - Microsoft)
 - [Business Analysis Foundations](https://drive.google.com/file/d/1AF7NM9Ngc8zKXlPv7NaR2KKU6hlD-11J/view?usp=sharing) (Oct 2024) (Linkedin Learning - IIBA)
+
+## Achievements
+- Featured in SETU, Waterford, Ireland Business School Newsletter, “[THE EDGE](https://www.linkedin.com/posts/ram-sikarwar_setu-business-schools-summer-newsletter-activity-7245625097435123712-mWl0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB4NoRYBbAJyMAB5DtK-RDv7ibYSJbydk5g)” (Sep2024)
+- Selected as an “[International Student Ambassador](https://www.linkedin.com/posts/ram-sikarwar_internationalabrstudentabrambassador-india-activity-7240811568303648769-8KIK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB4NoRYBbAJyMAB5DtK-RDv7ibYSJbydk5g)” by Enterprise Ireland, represented SETU, Waterford, Ireland globally (2023-24)
 
 ## Contact
 - LinkedIn: [@ramsikarwar](https://linkedin.com/in/ram-sikarwar)
