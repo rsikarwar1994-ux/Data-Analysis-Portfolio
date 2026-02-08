@@ -65,5 +65,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Business Analysis Foundations](https://drive.google.com/file/d/1AF7NM9Ngc8zKXlPv7NaR2KKU6hlD-11J/view?usp=sharing) (Oct 2024) (Linkedin Learning - IIBA)
 
 ## Contact
-- LinkedIn: [@ramsikarwar](linkedin.com/in/ram-sikarwar)
+- LinkedIn: [@ramsikarwar](https://linkedin.com/in/ram-sikarwar)
 - Email: r.sikarwar1994@gmail.com
