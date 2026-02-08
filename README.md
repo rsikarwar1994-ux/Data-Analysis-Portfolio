@@ -33,7 +33,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Bikes – Sales Performance Dashboard
-**Code:** [`....)
+**Code:** [`Data Modeling and Analysing Sales Data `](https://github.com/rsikarwar1994-ux/Honda-Bikes-Sales-Dashboard/edit/main/README.md)
 
 **Goal:** To build an executive-level sales performance dashboard that provides a clear overview of sales, product performance, trends over time, and key business metrics to support stakeholder decision-making.
 
