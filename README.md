@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Power BI](#power-bi)
+  - [Power BI]
     - [Bikes – Sales Performance Dashboard](#bikes--sales-performance-dashboard)
 - [Education](#education)
 - [Certificates](#certificates)
