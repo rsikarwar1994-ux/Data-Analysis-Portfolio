@@ -30,7 +30,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Contact](#contact)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I have listed data analytics and BI projects briefly described the technology stack use to solve cases.
 
 ### Bikes – Sales Performance Dashboard
 **Code:** [`Analysing Sales Data to Support better Business Decisions `](https://github.com/rsikarwar1994-ux/Honda-Bikes-Sales-Dashboard/edit/main/README.md)
