@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Power BI](#power-bi)
-    - [Bikes – Sales Performance Dashboard](#honda-bikes--sales-performance-dashboard)
+    - [Bikes – Sales Performance Dashboard](#bikes--sales-performance-dashboard)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -33,13 +33,13 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Bikes – Sales Performance Dashboard
-**Code:** [`Data Modeling and Analysing Sales Data `](https://github.com/rsikarwar1994-ux/Honda-Bikes-Sales-Dashboard/edit/main/README.md)
+**Code:** [`Analysing Sales Data to Support better Business Decisions `](https://github.com/rsikarwar1994-ux/Honda-Bikes-Sales-Dashboard/edit/main/README.md)
 
 **Goal:** To build an executive-level sales performance dashboard that provides a clear overview of sales, product performance, trends over time, and key business metrics to support stakeholder decision-making.
 
-**Description:** This project focuses on transforming raw sales data from Excel into an interactive and insightful Power BI dashboard. The dashboard consolidates sales, customer, product, and time-based data into a single view for stakeholders. The work involved data cleaning and preparation, building a data model, creating DAX measures for KPIs, and designing visuals such as KPI cards, a column chart for category performance, a line chart for sales trends (with forecasting), a detailed order table, and a Q&A visual for natural language queries. The goal was to make sales performance easy to understand and actionable for business users.
+**Description:** This project transforms raw sales data of year 2023 into an interactive Power BI dashboard for stakeholders. It includes data cleaning, data modeling, DAX-based KPIs, and visuals for category performance, sales trends, detailed orders, and Q&A-driven analysis to make sales performance easy to understand and actionable.
 
-**Skills:** dData cleaning, data modeling, DAX measures, KPI development, trend analysis, exploratory analysis, data visualization, dashboard design, business storytelling.
+**Skills:** Data cleaning, data modeling, DAX measures, KPI development, trend analysis, data visualization, business storytelling.
 
 **Technology:** Power BI, Excel, DAX, Power Query, Data Modeling..
 
@@ -64,6 +64,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Data Analysis and Visualization with Power BI](https://coursera.org/share/e28ab545fcd123dcfa8e5a7e1fbcc1a2) (Jan 2026) (Coursera - Microsoft)
 - [Business Analysis Foundations](https://drive.google.com/file/d/1AF7NM9Ngc8zKXlPv7NaR2KKU6hlD-11J/view?usp=sharing) (Oct 2024) (Linkedin Learning - IIBA)
 
-## Contacts
+## Contact
 - LinkedIn: [@ramsikarwar](linkedin.com/in/ram-sikarwar)
 - Email: r.sikarwar1994@gmail.com
