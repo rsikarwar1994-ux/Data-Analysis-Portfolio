@@ -48,11 +48,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Education
 South East Technological University, Waterford, Ireland: 
-Master of Business - Finance and Business Analytics, (First Class Honours),
+Master of Business - Finance and Business Analytics, (First Class),
 Sep 2023 - Aug 2024
 
 Bharati Vidyapeeth, New Delhi, India:
-Master of Business Administration (MBA), Finance and Marketing, (First Class Honours),
+MBA, Finance and Marketing, (First Class Honours),
 Jan 2018 - Dec 2019
 
 Jagannath University, New Delhi, India:
