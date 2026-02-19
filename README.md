@@ -45,6 +45,19 @@ In this section I have listed data analytics and BI projects briefly described t
 
 **Results:** The dashboard provides a clear view of 2023 year bike sales performance across products, time, and locations, helping stakeholders quickly identify underperforming categories, high-performing products, low-performing regions, and key operational characteristics. It enables faster, data-driven decisions by highlighting both risks and opportunities in the business.
 
+### Gym – Workout Trends & Efficiency Dashboard
+**Code:** [`Fitness Analytics with Power BI – Workout Trends & Efficiency`](https://github.com/rsikarwar1994-ux/gym-workout-trends-efficiency-dashboard/blob/main/README.md)
+
+**Goal:** To build an insight-driven fitness analytics dashboard that analyzes workout trends, performance, and efficiency across different workout types, helping translate raw gym data into clear, actionable insights.
+
+**Description:** This project transforms a public gym workout dataset into an interactive Power BI dashboard focused on workout distribution, calories burned, workout efficiency (calories per minute), and session duration. The workflow includes data cleaning, data modeling, and DAX-based measures to create meaningful KPIs and visuals. The dashboard is designed not just to display numbers, but to tell a clear data story about how different workout types compare in terms of intensity, time commitment, and overall performance..\
+
+**Skills:** Data cleaning, data modeling, DAX measures, KPI development, trend analysis, data visualization, business storytelling.
+
+**Technology:** Power BI, Excel, Data cleaning & modeling, DAX-based measures, Visual design & layout, Insight-driven dashboard building.
+
+**Results:** The dashboard provides a clear, visual comparison of workout types in terms of popularity, average calories burned per session, time efficiency, and session duration. It helps highlight the trade-offs between different workouts (e.g., intensity vs time commitment) and demonstrates how fitness data can be turned into structured, insight-driven analytics suitable for decision-making and storytelling.
+
 
 ## Education
 [South East Technological University, Waterford, Ireland](https://www.setu.ie/news/from-india-to-ireland-ram-completes-postgraduate-study-at-setu)
